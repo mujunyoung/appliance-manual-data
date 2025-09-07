@@ -1,0 +1,59 @@
+{
+  "manuals": [
+    {
+      "id": "LG_001",
+      "brand": "LG",
+      "modelNumber": "F19WDWP",
+      "modelNameKr": "LG 트롬 세탁기 19kg",
+      "category": "세탁기",
+      "manualUrl": "https://www.lge.co.kr/upload/PDF/DFZ/20917/1011100846_MFL48165917.pdf",
+      "thumbnailUrl": "",
+      "year": "2024",
+      "keywords": ["트롬", "19kg", "오브제"]
+    },
+    {
+      "id": "LG_002",
+      "brand": "LG",
+      "modelNumber": "SQ06EZ1WBS",
+      "modelNameKr": "LG 휘센 벽걸이 에어컨",
+      "category": "에어컨",
+      "manualUrl": "https://www.lge.co.kr/common/download.jsp?path=/upload/PDF/DGZ/30173/&fileName=1402181549_MFL67414804.pdf&originFileName=1402181549_MFL67414804.pdf",
+      "thumbnailUrl": "",
+      "year": "2024",
+      "keywords": ["휘센", "6평", "벽걸이"]
+    },
+    {
+      "id": "SAMSUNG_001",
+      "brand": "Samsung",
+      "modelNumber": "RF29DB9900QDAA",
+      "modelNameKr": "비스포크 4도어 플렉스 냉장고",
+      "category": "냉장고",
+      "manualUrl": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/bespoke/rf23db9900qdaa/fit/RF29DB9900_V3.pdf",
+      "thumbnailUrl": "",
+      "year": "2024",
+      "keywords": ["비스포크", "패밀리허브", "4도어"]
+    },
+    {
+      "id": "SAMSUNG_002",
+      "brand": "Samsung",
+      "modelNumber": "AR12TSFABWKNCV",
+      "modelNameKr": "윈드프리 벽걸이 에어컨",
+      "category": "에어컨",
+      "manualUrl": "https://downloadcenter.samsung.com/content/UM/202004/20200429154428801/RAC019-01_IB_AR9500T_GEO_WIND_FREE_ME-SS-SA_EN-WEB.pdf",
+      "thumbnailUrl": "",
+      "year": "2024",
+      "keywords": ["윈드프리", "AR9500T"]
+    },
+    {
+      "id": "CARRIER_001",
+      "brand": "Carrier",
+      "modelNumber": "MOG07M20FM",
+      "modelNameKr": "캐리어 전자레인지",
+      "category": "전자레인지",
+      "manualUrl": "https://www.carrier.co.kr/CarrierRef/support/manual/download.asp?filedown=MOG07M20FM.pdf",
+      "thumbnailUrl": "",
+      "year": "2023",
+      "keywords": ["전자레인지", "캐리어"]
+    }
+  ]
+}
